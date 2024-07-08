@@ -12,6 +12,7 @@ Numpy: versão 1.25.2
 
 Python: versão 3.10
 
+Para leitura, o arquivo fonte deve estar nomeado como 'desafio.csv'.
 # Melhor modelo
 Para obter os resultados do melhor modelo, sendo df o dataset com treino e teste, deve-se seguir os seguintes passos
 ```python
